@@ -9,3 +9,7 @@ Repository ini adalah source untuk video pada channel Youtube iTeqno
 ### Find at Youtube
 
 [![Youtube iTeqno](http://img.youtube.com/vi/ywZHm9SyRyU/0.jpg)](https://youtu.be/ywZHm9SyRyU "Rainbow Xylophone")
+
+### Resources
+- Sounds https://freesound.org/people/DANMITCH3LL/packs/14220/
+- Audio Player https://pub.dev/packages/audioplayers
